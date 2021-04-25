@@ -1,0 +1,6 @@
+name0, surname0,3.3
+name3, surname3,3.3
+name4, surname4,2.2
+name5, surname5,4.4
+name8, surname8,2.2
+name9, surname9,4

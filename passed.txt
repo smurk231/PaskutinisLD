@@ -1,0 +1,4 @@
+name1, surname1,6.8999999999999995
+name2, surname2,6.6
+name6, surname6,6.8
+name7, surname7,6.699999999999999

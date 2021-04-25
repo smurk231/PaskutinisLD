@@ -1,0 +1,10 @@
+name0,surname0,6,3,5,5,3,3
+name1,surname1,5,1,3,2,1,9
+name2,surname2,1,2,1,2,2,9
+name3,surname3,3,7,2,9,3,3
+name4,surname4,7,4,4,4,6,1
+name5,surname5,5,5,5,2,2,5
+name6,surname6,7,2,2,9,4,8
+name7,surname7,7,7,6,6,7,7
+name8,surname8,1,3,9,8,5,1
+name9,surname9,2,2,6,4,8,4
